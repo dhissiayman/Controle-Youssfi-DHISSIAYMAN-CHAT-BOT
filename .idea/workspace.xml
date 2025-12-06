@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1e2a640-d87b-4f11-84eb-754877427ec5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/java/com/example/mydhissia/mcp/tools/TavilyToolClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/src/main/java/net/youssfi/mcpserver/McpServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/src/main/java/net/youssfi/mcpserver/tools/McpTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mcp-server/src/test/java/net/youssfi/mcpserver/McpServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/screens/arch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/java/net/youssfi/enstbot/EnstBotApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/java/net/youssfi/enstbot/agents/AIAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/java/net/youssfi/enstbot/telegram/TelegramBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/java/net/youssfi/enstbot/web/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client/src/test/java/net/youssfi/enstbot/EnstBotApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chatbot-spring-ai-mcp-telegram-client" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dhissiayman"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mohamedYoussfi/chatbot-spring-ai-mcp-telegram-client.git",
+    "accountId": "c2ba727b-a1b8-4bca-a9f8-b467bd83b73a"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="36RnBaCHHNZRXM98a6mb7nXprnk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AiTelegramAgentApplication.executor": "Run",
+    "Spring Boot.MyDhissiaAiAgentApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dhiss/Desktop/airbyte/chatbot-spring-ai-mcp-telegram-client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyDhissiaAiAgentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="enst-bot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mydhissia.MyDhissiaAiAgentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e2a640-d87b-4f11-84eb-754877427ec5" name="Changes" comment="" />
+      <created>1764978116658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764978116658</updated>
+      <workItem from="1764978117833" duration="8339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.apollographql.ijplugin.settings.ProjectSettingsState">
+    <option name="hasEnabledGraphQLPluginApolloKotlinSupport" value="true" />
+    <option name="lspPassPathToSuperGraphYaml" value="false" />
+    <option name="telemetryInstanceId" value="8318bb75-fb90-4836-b1d3-290008f0d1d3" />
+  </component>
+</project>
